@@ -1,0 +1,8 @@
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Entity\obj\Debug\netstandard2.0\Entity.pdb

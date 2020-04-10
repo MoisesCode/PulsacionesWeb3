@@ -1,0 +1,11 @@
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\bin\Debug\netstandard2.0\Datos.deps.json
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\bin\Debug\netstandard2.0\Datos.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\bin\Debug\netstandard2.0\Datos.pdb
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\bin\Debug\netstandard2.0\Entity.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\bin\Debug\netstandard2.0\Entity.pdb
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\obj\Debug\netstandard2.0\Datos.csprojAssemblyReference.cache
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfoInputs.cache
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\obj\Debug\netstandard2.0\Datos.AssemblyInfo.cs
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\obj\Debug\netstandard2.0\Datos.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Datos\obj\Debug\netstandard2.0\Datos.pdb

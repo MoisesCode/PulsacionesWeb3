@@ -1,0 +1,13 @@
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\bin\Debug\netstandard2.0\Logica.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\bin\Debug\netstandard2.0\Logica.pdb
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\bin\Debug\netstandard2.0\Datos.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\bin\Debug\netstandard2.0\Entity.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\bin\Debug\netstandard2.0\Datos.pdb
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\bin\Debug\netstandard2.0\Entity.pdb
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\obj\Debug\netstandard2.0\Logica.dll
+D:\CodigoW\BackEnd-FrontEnd\PulsacionesWeb\Logica\obj\Debug\netstandard2.0\Logica.pdb
